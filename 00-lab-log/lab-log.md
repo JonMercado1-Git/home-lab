@@ -8,3 +8,4 @@
 | 2026-08-28 | <hrs> | ssh pass key login through the ubuntu server, public private key access | Phase 1 |
 | 2026-08-30 | <hrs> | on ssh connection will no longer accept password, only authentication goes through the key pass method | Phase 1 |
 | 2026-08-31 | <hrs> | Bought NETGEAR switch and updated its firmware | Phase 2 |
+| 2026-08-31 | <hrs> | configured Vlan with isolation testing, port based| Phase 2 |
